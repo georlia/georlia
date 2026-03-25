@@ -1,6 +1,4 @@
 # Hi there, I'm Georlia 👋
-### Aspiring Data Analyst 
----
 
 ## 🚀 About Me
 I am a Data Analyst focused on building end-to-end solutions that drive decision-making. 
