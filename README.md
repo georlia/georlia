@@ -1,6 +1,4 @@
 # Hi i'm Georlia 😊
-
-## 🌷 About Me:
 I am a Data Analyst focused on building end-to-end solutions that drive decision-making. 
 I specialize in extracting insights from complex datasets and visualizing them through high-impact Power BI dashboards.
 
