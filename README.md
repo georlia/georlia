@@ -12,8 +12,8 @@ I specialize in extracting insights from complex datasets and visualizing them t
 
 ## 📈 My GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[georlia]&show_icons=true&theme=tokyonight" height="150" alt="stats card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[georlia]&layout=compact&theme=tokyonight" height="150" alt="languages card" />
+  <img src="https://github-readme-stats.vercel.app/api?username=georlia&show_icons=true&theme=tokyonight" height="150" alt="stats card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georlia&layout=compact&theme=tokyonight" height="150" alt="languages card" />
 </p>
 
 ## 📫 How to reach me:
