@@ -19,4 +19,4 @@ I specialize in extracting insights from complex datasets and visualizing them t
 </p>
 
 ## 📫 How to reach me:
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/georliasg/)
+- **LinkedIn:** [Georlia Sg](https://www.linkedin.com/in/georliasg/)
