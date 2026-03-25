@@ -1,6 +1,6 @@
-# Hi there, I'm Georlia 👋
+# Hi i'm Georlia 😊
 
-## 🚀 About Me
+## 🌷 About Me:
 I am a Data Analyst focused on building end-to-end solutions that drive decision-making. 
 I specialize in extracting insights from complex datasets and visualizing them through high-impact Power BI dashboards.
 
@@ -10,10 +10,9 @@ I specialize in extracting insights from complex datasets and visualizing them t
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-## 📈 My GitHub Stats
+## 📈 My GitHub Stats:
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=georlia&show_icons=true&theme=tokyonight" height="150" alt="stats card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georlia&layout=compact&theme=tokyonight" height="150" alt="languages card" />
 </p>
 
 ## 📫 How to reach me:
