@@ -10,4 +10,4 @@ I specialize in extracting insights from complex datasets and visualizing them t
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ## 📫 How to reach me:
-- **LinkedIn:** [Georlia Sg](https://www.linkedin.com/in/georliasg/)
+- LinkedIn: [Georlia Sg](https://www.linkedin.com/in/georliasg/)
