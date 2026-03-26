@@ -9,10 +9,5 @@ I specialize in extracting insights from complex datasets and visualizing them t
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-## 📈 My GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=georlia&show_icons=true&theme=tokyonight" height="150" alt="stats card" />
-</p>
-
 ## 📫 How to reach me:
 - **LinkedIn:** [Georlia Sg](https://www.linkedin.com/in/georliasg/)
