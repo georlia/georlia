@@ -1,4 +1,4 @@
-# Hi i'm Georlia 😊
+# Hi i'm Georlia😊
 I am an IT student that wants to be a Data Analyst.               
 I focus on building end-to-end solutions that drive decision-making.                       
 I specialize in extracting insights from complex datasets and visualizing them through high-impact Power BI dashboards.
