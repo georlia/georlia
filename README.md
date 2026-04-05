@@ -1,6 +1,6 @@
 # Hi i'm Georlia😊
 I am an IT student that wants to be a Data Analyst.               
-I specialize in translating messy datasets into visual narratives that drive growth. 
+I specialize in translating messy datasets into visual narratives that drive growth.                   
 By combining the power of SQL, the flexibility of Python, and the visualization capabilities of Power BI.
 
 ## Skills and Tools: 
