@@ -11,3 +11,4 @@ By combining the power of SQL, the flexibility of Python and the visualization c
 
 ## How to reach me: 
 LinkedIn: ➡️ [Georlia Sgοuraki](https://www.linkedin.com/in/georliasg/)
+Portfolio: ➡️ [Click Here](https://georlia.github.io/) 
