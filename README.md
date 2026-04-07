@@ -12,5 +12,5 @@ By combining the power of SQL, the flexibility of Python and the visualization c
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)                                   
 
 ## How to reach me: 
-LinkedIn:  [Click Here](https://www.linkedin.com/in/georliasg/)                          
-Portfolio: [Click Here](https://georlia.github.io/) 
+🔹[Linkedin](https://www.linkedin.com/in/georliasg/)                          
+🔸[Portfolio](https://georlia.github.io/) 
