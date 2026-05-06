@@ -1,7 +1,7 @@
 # Hi Ι'm Georlia😊
-Final-year undergraduate student on a mission to become a Data Analyst.               
-I specialize in translating messy datasets into visual narratives that drive growth.                 
-By combining the power of SQL, the flexibility of Python and the visualization capabilities of Power BI to uncover hidden patterns and deliver data-driven solutions for real-world business challenges.
+Final-year Informatics & Telecommunications undergraduate on a mission to become a Data Analyst.I specialize in translating messy datasets into visual narratives that drive growth.               
+By combining the power of SQL, the flexibility of Python and the visualization capabilities of Power BI to uncover hidden patterns and deliver data-driven solutions for real-world business challenges.    
+Continuously expanding my toolkit through hands-on projects and certifications from platforms
 
 ## Skills and Tools: 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
