@@ -4,7 +4,7 @@ A final-year Informatics and Telecommunications undergraduate and aspiring Data 
 - 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate with everyone in order to make any Data Science or ML project.
 - 📫 How to reach me:
-  - **Linkedin:** <li> https://linkedin.com/in/georlia</li>
+  - **Linkedin:** https://linkedin.com/in/georlia
 
 <!--
 - 🔭 I’m currently working on ...
