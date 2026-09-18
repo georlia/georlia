@@ -2,7 +2,7 @@
 A final-year Informatics and Telecommunications undergraduate and aspiring Data Scientist with a passion for continuous learning. Grounded in core statistics, hands-on with Python and SQL, and driven by an obsession with unpacking new tools and complex datasets. Explore my projects below to see my foundation and how fast I adapt.
 
 - 🌱 I’m currently learning new Python libraries.
-- 👯 I’m looking to collaborate with everyone in order to make any Data Science or ML project.
+- 👯 I’m looking to collaborate for the creation of any Data Science or ML project.
 - 📫 How to reach me:
   - **Linkedin:** [Click here](https://linkedin.com/in/georlia)
   - **Website portfolio:** [Click here](https://georlia.github.io/)
